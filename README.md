@@ -103,3 +103,8 @@ Email: umaraliy092@gmail.com
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Aliy26/Aliy26/blob/output/github-contribution-grid-snake-dark.svg)
