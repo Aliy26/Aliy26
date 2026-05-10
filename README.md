@@ -21,6 +21,7 @@ I’m a Full-Stack Developer focused on building modern, scalable, and interacti
 ### Database & Tools
 - MongoDB
 - PostgreSQL
+- MySQL
 - Git & GitHub
 - Docker
 - Vercel
@@ -34,9 +35,9 @@ I’m a Full-Stack Developer focused on building modern, scalable, and interacti
 
 ## 📫 Contact
 
-- Portfolio: your-portfolio-link
-- Email: your-email
-- LinkedIn: your-linkedin
+- Portfolio: umar.space
+- Email: umaraliy092@gmail.com
+=
 
 ---
 
