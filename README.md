@@ -65,11 +65,11 @@ NestJS, GraphQL, and TypeScript.
 
 ## 📬 Contact
 
-Portfolio: your-link
+Website: umar.space
 
-Email: your-email
+Email: umaraliy092@gmail.com
 
-LinkedIn: your-linkedin
+
 
 </td>
 
