@@ -105,4 +105,4 @@ Email: umaraliy092@gmail.com
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
+![snake gif](https://github.com/Aliy26/Aliy26/blob/output/github-contribution-grid-snake-dark.svg)
