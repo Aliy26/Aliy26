@@ -1,51 +1,83 @@
-<div className="flex justify-center">
-  <div className="grid grid-cols-1 md:grid-cols-3 gap-0 border border-zinc-700 max-w-4xl w-full">
-    
-    {/* Frontend */}
-    <div className="p-6 border-r border-zinc-700 flex flex-col">
-      <h2 className="text-3xl font-bold mb-6">
-        🚀 Frontend
-      </h2>
+<div align="center">
 
-      <ul className="space-y-3 text-xl">
-        <li>React</li>
-        <li>Next.js</li>
-        <li>TypeScript</li>
-        <li>Redux</li>
-        <li>SCSS</li>
-        <li>TailwindCSS</li>
-      </ul>
-    </div>
+# Hi there 👋
 
-    {/* Backend */}
-    <div className="p-6 border-r border-zinc-700 flex flex-col">
-      <h2 className="text-3xl font-bold mb-6">
-        ⚙️ Backend
-      </h2>
+<table>
+<tr>
+<td valign="top" width="250">
 
-      <ul className="space-y-3 text-xl">
-        <li>Node.js</li>
-        <li>NestJS</li>
-        <li>Express</li>
-        <li>GraphQL</li>
-        <li>REST APIs</li>
-      </ul>
-    </div>
+## 🚀 Frontend
 
-    {/* Tools */}
-    <div className="p-6 flex flex-col">
-      <h2 className="text-3xl font-bold mb-6">
-        🛠️ Tools
-      </h2>
+- React
+- Next.js
+- TypeScript
+- Redux
+- SCSS
+- TailwindCSS
 
-      <ul className="space-y-3 text-xl">
-        <li>MongoDB</li>
-        <li>PostgreSQL</li>
-        <li>Docker</li>
-        <li>Git & GitHub</li>
-        <li>Vercel</li>
-        <li>Figma</li>
-      </ul>
-    </div>
-  </div>
+</td>
+
+<td valign="top" width="250">
+
+## ⚙️ Backend
+
+- Node.js
+- NestJS
+- Express
+- GraphQL
+- REST APIs
+
+</td>
+
+<td valign="top" width="250">
+
+## 🛠️ Tools
+
+- MongoDB
+- PostgreSQL
+- Docker
+- Git & GitHub
+- Vercel
+- Figma
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td valign="top" width="500">
+
+## 💡 About Me
+
+Full-Stack Developer focused on scalable backend systems,
+interactive frontend experiences, and clean architecture.
+
+Currently building modern web applications with React,
+NestJS, GraphQL, and TypeScript.
+
+</td>
+
+<td valign="top" width="350">
+
+## 📬 Contact
+
+Portfolio: your-link
+
+Email: your-email
+
+LinkedIn: your-linkedin
+
+</td>
+
+</tr>
+</table>
+
+---
+
+> AI writes code fast. I make sure it is efficient.
+
 </div>
