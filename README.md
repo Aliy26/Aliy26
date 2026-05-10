@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Aliy26/Aliy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-Stack Developer focused on building modern, scalable, and interactive web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Redux
+- SCSS / TailwindCSS
+
+### Backend
+- Node.js
+- NestJS
+- Express
+- GraphQL
+- REST APIs
+
+### Database & Tools
+- MongoDB
+- PostgreSQL
+- Git & GitHub
+- Docker
+- Vercel
+
+## 💡 About Me
+
+- Building full-stack applications for almost 4 years
+- Interested in scalable architecture and clean UI/UX
+- Enjoy solving complex engineering problems
+- Currently based in Seoul, South Korea 🇰🇷
+
+## 📫 Contact
+
+- Portfolio: your-portfolio-link
+- Email: your-email
+- LinkedIn: your-linkedin
+
+---
+
+> AI writes code fast. I make sure it is efficient.
