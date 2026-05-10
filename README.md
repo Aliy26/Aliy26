@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I’m a Full-Stack Developer focused on building modern, scalable, and interactive web applications.
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
 ## 🚀 Tech Stack
 
@@ -18,26 +20,48 @@ I’m a Full-Stack Developer focused on building modern, scalable, and interacti
 - GraphQL
 - REST APIs
 
-### Database & Tools
+</td>
+
+<td valign="top" width="50%">
+
+## 🛠 Database & Tools
+
 - MongoDB
 - PostgreSQL
-- MySQL
 - Git & GitHub
 - Docker
 - Vercel
+- Figma
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
 
 ## 💡 About Me
 
-- Building full-stack applications for almost 4 years
-- Interested in scalable architecture and clean UI/UX
-- Enjoy solving complex engineering problems
-- Currently based in Seoul, South Korea 🇰🇷
+Full-Stack Developer focused on scalable backend systems, interactive frontend experiences, and clean architecture.
+
+Currently building modern web applications with React, NestJS, GraphQL, and TypeScript.
+
+</td>
+
+<td align="center" width="50%">
 
 ## 📫 Contact
 
-- Portfolio: umar.space
-- Email: umaraliy092@gmail.com
-=
+Portfolio: your-link  
+Email: your-email  
+LinkedIn: your-linkedin
+
+</td>
+</tr>
+</table>
 
 ---
 
