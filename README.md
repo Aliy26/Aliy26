@@ -1,19 +1,24 @@
 # Hi there 👋
 
-<table width="100%">
+<table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-## 🚀 Tech Stack
+## 🚀 Frontend
 
-### Frontend
 - React
 - Next.js
 - TypeScript
 - Redux
-- SCSS / TailwindCSS
+- SCSS
+- TailwindCSS
 
-### Backend
+</td>
+
+<td valign="top" width="33%">
+
+## ⚙️ Backend
+
 - Node.js
 - NestJS
 - Express
@@ -22,14 +27,14 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-## 🛠 Database & Tools
+## 🛠 Tools
 
 - MongoDB
 - PostgreSQL
-- Git & GitHub
 - Docker
+- Git & GitHub
 - Vercel
 - Figma
 
@@ -37,9 +42,9 @@
 </tr>
 </table>
 
-<br/>
+---
 
-<table width="100%">
+<table>
 <tr>
 <td align="center" width="50%">
 
