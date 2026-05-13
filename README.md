@@ -65,7 +65,7 @@ NestJS, GraphQL, and TypeScript.
 
 ## 📬 Contact
 
-Website: umaraliy.pro
+Website: https://www.umaraliy.pro
 
 Email: umaraliy092@gmail.com
 
